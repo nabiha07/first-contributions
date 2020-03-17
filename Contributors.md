@@ -2720,6 +2720,9 @@ Hammad Qureshi
 - [Tim Gretler](https://github.com/tthebst)
 - [Natalie Puls](https://github.com/nataliepls)
 - [Abdelrahman Shalaby](https://github.com/abdo3bido)
+	Hiii, this is Navya. Hope you're having a good day
+	contact me on : navyasingh99@gmail.com
+
 - [xkbarkar](https://github.com/xkbarkar)
 - [Katarina Käll](https://github.com/katarinakall)
 - [Katrina Rodriguez](https://github.com/katrinar)
